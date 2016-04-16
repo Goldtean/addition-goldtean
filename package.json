@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Goldtean/addition-goldtean/issues"
   },
-  "homepage": "https://github.com/Goldtean/addition-goldtean#readme"
+  "homepage": "https://github.com/Goldtean/addition-goldtean#readme",
+  "devDependencies": {
+    "tap": "^5.7.1"
+  }
 }
