@@ -1,0 +1,25 @@
+{
+  "name": "addition-goldtean",
+  "version": "0.0.1",
+  "description": "is this a jay, son?",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goldtean/addition-goldtean.git"
+  },
+  "keywords": [
+    "addition",
+    "jeremy",
+    "oltean",
+    "goldtean"
+  ],
+  "author": "President of the United Provinces of Canada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goldtean/addition-goldtean/issues"
+  },
+  "homepage": "https://github.com/Goldtean/addition-goldtean#readme"
+}

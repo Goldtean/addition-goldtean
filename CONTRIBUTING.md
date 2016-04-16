@@ -1,0 +1,4 @@
+- Fork the repo
+- Update the repo
+- Pull request the repo
+- Profit!
